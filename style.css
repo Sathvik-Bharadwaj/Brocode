@@ -1,0 +1,28 @@
+#Navbar{
+  background-image:url(images/bg.jpg);
+  background-size: cover;
+  height: 720px;
+  width: 1380px;
+}
+
+.navbar{
+  padding: 50px 160px ;
+  font-family: 'Pacifico', cursive;
+}
+
+.nav-link:hover{
+  color: #ffe8df;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  color:white;
+}
+
+.navbar-brand:hover{
+  color: #ffe8df;
+}
+.nav-link {
+color: white;
+font-size: 1.5rem;
+}
